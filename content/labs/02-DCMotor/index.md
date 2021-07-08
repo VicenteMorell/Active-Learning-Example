@@ -19,7 +19,7 @@ $$
 
 Consider a winding of conducting wire covered by an electric current, immersed in a region where there is a horizontal magnetic field to the right (produced by permanent magnets), uniform and constant in time, as shown in the figure. In the figure, mark the Lorentz force at points A, B, C and D of the winding, remembering that the electric current can be understood as the flow of positive charges along the wire. Indicate the direction of rotation of this winding around the axis.
 
-![](fig1.png)
+![logo de proyectos](fig1.png)
 
 !!! info
     Also note the direction of touch caused by each force and the direction of angular velocity to be acquired by the winding.
@@ -29,7 +29,7 @@ The winding would rotate clockwise, right? This is the working principle of an e
 !!! question choice
     Considering the image below, select the correct answer.
     
-    ![](fig2.png)    
+    ![logo de sistemas de percepción](fig2.png)    
     
     - [x] There is torque in this position
     - [ ] There is **no** torque in this position
