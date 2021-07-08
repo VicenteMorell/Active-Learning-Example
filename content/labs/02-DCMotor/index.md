@@ -41,8 +41,7 @@ The winding would rotate clockwise, right? This is the working principle of an e
         - https://github.com/insper-education/active-handout/issues/7
 
 !!! question short
-    1. Is the applied torque in the same direction as the angular speed of the motor?
-    1. In this position, what would it take to make the torque go in the direction of angular velocity?
+    1. What do you think about our logo?
     
     ![](fig3.png)
     
