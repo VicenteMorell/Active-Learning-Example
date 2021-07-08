@@ -9,3 +9,5 @@ To use you must:
     - `Settings` :arrow_right:  `Pages` :arrow_right: `Source: gh-pages / ` :arrow_right: `Save`
 1. Edit `mkdocs.yml`
 1. Edit the `content/index.md`
+ 
+Saludos!
