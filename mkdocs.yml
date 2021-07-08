@@ -20,6 +20,7 @@ nav:
   - Laboratories:
     - labs/01-ExampleLab/index.md
     - labs/02-DCMotor/index.md
+    - labs/0-new-lab/index.md
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML
